@@ -40,6 +40,30 @@ SAR = {
 	influence_value = 100
 }
 
+TAN = {
+	value = 75		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 100
+}
+
+MDR = {
+	value = 75		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 100
+}
+
+MLA = {
+	value = 75		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 100
+}
+
+KOC = {
+	value = 75		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 100
+}
+
 SPA = {
 	value = 175
 }

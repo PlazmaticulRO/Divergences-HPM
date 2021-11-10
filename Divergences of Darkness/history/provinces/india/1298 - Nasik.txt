@@ -1,7 +1,6 @@
-owner = VIJ
-controller = VIJ
-add_core = DRA
-add_core = VIJ
-add_core = BHO
+owner = AHM
+controller = AHM
+add_core = AHM
 trade_goods = grain
 life_rating = 32
+

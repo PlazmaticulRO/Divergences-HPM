@@ -1,7 +1,5 @@
-owner = NAG
-controller = NAG
-add_core = NAG
-add_core = DRA
-#add_core = VIJ
+owner = MWA
+controller = MWA
+add_core = MWA
 trade_goods = dye
 life_rating = 32

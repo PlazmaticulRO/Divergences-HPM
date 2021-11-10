@@ -1,4 +1,4 @@
-max_provinces = 3332
+max_provinces = 3337
 
 sea_starts = {
     2703 2704 2705 2706 2707 2708 2709 2710 2711 2712
@@ -65,7 +65,7 @@ sea_starts = {
     3314 3315 3316 3317 3318 3319 3320
 }
 
-definitions = "../mod/Divergences of Darkness/map/definition.csv"
+definitions = "../mod/Divergences of India/map/definition.csv"
 provinces = "provinces.bmp"
 positions = "positions.txt"
 terrain = "terrain.bmp"

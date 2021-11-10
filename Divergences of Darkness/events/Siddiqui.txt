@@ -1,0 +1,38 @@
+country_event = {
+    id = 45000
+    title = "EVTNAME45000" #Siddiqui Starting Event
+    desc = "EVTDESC45000"
+    picture = "explorers"
+
+    fire_only_once = yes
+
+    trigger = {
+        tag = SDD
+    }
+	
+    mean_time_to_happen = { days = 1 }
+
+    option = {
+        name = "EVTOPTA45000"
+        prestige = 5
+    }
+    option = {
+        name = "EVTOPTB45000"
+        change_tag = PNJ
+        country_event = 45001
+    }
+}
+
+country_event = {
+    id = 45001
+    title = "EVTNAME45001" #Punjab Reborn
+    desc = "EVTDESC45001"
+    picture = "explorers"
+
+    is_triggered_only = yes
+
+    option = {
+        name = "EVTOPTA45001"
+        prestige = 5
+    }
+}

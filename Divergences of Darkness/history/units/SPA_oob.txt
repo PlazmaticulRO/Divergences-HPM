@@ -1,4 +1,4 @@
-VIJ = {
+BLG = {
 	value = 125		#relation
 	level = 5		#3=cordial, 4 = friendly, 5 sphere
 	influence_value = 25
@@ -16,10 +16,118 @@ TAI = {
 	influence_value = 35
 }
 
-TRA = {
-	value = 100		#relation
-	level = 3		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 35
+HOY = {
+	value = 25		#relation
+	level = 4		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 0
+}
+
+RED = {
+	value = 25		#relation
+	level = 4		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 0
+}
+
+NAY = {
+	value = 25		#relation
+	level = 4		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 0
+}
+
+AHM = {
+	value = 25		#relation
+	level = 4		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 0
+}
+
+MWA = {
+	value = 25		#relation
+	level = 4		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 0
+}
+
+RAI = {
+	value = 25		#relation
+	level = 4		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 0
+}
+
+RAT = {
+	value = 25		#relation
+	level = 4		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 0
+}
+
+TUM = {
+	value = 25		#relation
+	level = 4		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 0
+}
+
+PAD = {
+	value = 25		#relation
+	level = 4		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 0
+}
+
+BHO = {
+	value = 25		#relation
+	level = 4		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 0
+}
+
+BEN = {
+	value = 25		#relation
+	level = 4		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 0
+}
+
+AHO = {
+	value = 25		#relation
+	level = 4		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 0
+}
+
+REW = {
+	value = 25		#relation
+	level = 4		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 0
+}
+
+KHA = {
+	value = 25		#relation
+	level = 4		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 0
+}
+
+KAY = {
+	value = 25		#relation
+	level = 4		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 0
+}
+
+BAN = {
+	value = 25		#relation
+	level = 4		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 0
+}
+
+UDA = {
+	value = 25		#relation
+	level = 4		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 0
+}
+
+JOD = {
+	value = 25		#relation
+	level = 4		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 0
+}
+
+SDD = {
+	value = 25		#relation
+	level = 4		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 0
 }
 
 

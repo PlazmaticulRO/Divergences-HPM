@@ -1,6 +1,5 @@
-owner = SIN
-controller = SIN
-add_core = PNJ
-add_core = HND
+owner = SDD
+controller = SDD
+add_core = SDD
 trade_goods = cattle
 life_rating = 32

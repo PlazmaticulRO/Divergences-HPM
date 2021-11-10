@@ -1,7 +1,5 @@
-owner = VIJ
-controller = VIJ
-add_core = DRA
-add_core = VIJ
-add_core = BHO
+owner = BLG
+controller = BLG
+add_core = BLG
 trade_goods = fish
 life_rating = 32

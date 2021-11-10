@@ -1,7 +1,5 @@
-owner = BUR
-controller = BUR
-add_core = HND
-add_core = BUR
-add_core = ASM
+owner = AHO
+controller = AHO
+add_core = AHO
 trade_goods = fruit
 life_rating = 32

@@ -1,9 +1,5 @@
-owner = VIJ
-controller = VIJ
-add_core = VIJ
-add_core = TRA
-add_core = HYD
-add_core = ADR
-add_core = DRA
+owner = RED
+controller = RED
+add_core = RED
 trade_goods = grain
 life_rating = 32

@@ -1,7 +1,5 @@
-owner = NAG
-controller = NAG
-add_core = NAG
-add_core = DRA
-#add_core = VIJ
+owner = RAT
+controller = RAT
+add_core = RAT
 trade_goods = grain
 life_rating = 32

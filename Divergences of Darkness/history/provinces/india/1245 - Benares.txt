@@ -1,7 +1,5 @@
-owner = MUG
-controller = MUG
-add_core = BUN
-add_core = HND
-add_core = MUG
+owner = KHA
+controller = KHA
+add_core = KHA
 trade_goods = opium
 life_rating = 32

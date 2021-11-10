@@ -1,0 +1,120 @@
+
+
+#========================= L A N D =========================
+
+army = {
+   name = "Defense Forces"
+    location = 1236
+    regiment = {
+        name = "Defense Brigade"
+        type = infantry
+        home = 1236
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = infantry
+        home = 1236
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = infantry
+        home = 1236
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = infantry
+        home = 1236
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = hussar
+        home = 1267
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = artillery
+        home = 1267
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = artillery
+        home = 1234
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = artillery
+        home = 1234
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = artillery
+        home = 1234
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = artillery
+        home = 1237
+    }
+}
+
+army = {
+   name = "Defense Forces"
+    location = 1268
+    regiment = {
+        name = "Defense Brigade"
+        type = infantry
+        home = 1268
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = infantry
+        home = 1268
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = infantry
+        home = 1268
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = infantry
+        home = 3336
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = hussar
+        home = 3336
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = artillery
+        home = 1238
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = artillery
+        home = 1238
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = artillery
+        home = 1239
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = artillery
+        home = 1235
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = artillery
+        home = 1238
+    }
+}
+
+#========================= S E A =========================
+
+
+
+#========================= END OF FILE =========================
+

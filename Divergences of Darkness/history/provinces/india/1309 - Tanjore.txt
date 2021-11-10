@@ -1,7 +1,5 @@
-owner = MDR
-controller = MDR
-add_core = DRA
-add_core = MDR
-#add_core = TRA
+owner = TAN
+controller = TAN
+add_core = TAN
 trade_goods = dye
 life_rating = 32

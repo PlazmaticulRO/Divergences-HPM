@@ -1,7 +1,5 @@
-owner = MDR
-controller = MDR
-add_core = DRA
-add_core = MDR
-#add_core = TRA
+owner = HOY
+controller = HOY
+add_core = HOY
 trade_goods = cattle
 life_rating = 32

@@ -1,0 +1,175 @@
+
+
+#========================= L A N D =========================
+
+army = {
+   name = "Defense Forces"
+    location = 1242
+    regiment = {
+        name = "Defense Brigade"
+        type = infantry
+        home = 1242
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = infantry
+        home = 1242
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = infantry
+        home = 1242
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = infantry
+        home = 1242
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = hussar
+        home = 1242
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = artillery
+        home = 1242
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = artillery
+        home = 1244
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = artillery
+        home = 1244
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = artillery
+        home = 1244
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = artillery
+        home = 1244
+    }
+}
+
+army = {
+   name = "Defense Forces"
+    location = 1243
+    regiment = {
+        name = "Defense Brigade"
+        type = infantry
+        home = 1243
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = infantry
+        home = 1243
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = infantry
+        home = 1243
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = infantry
+        home = 1243
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = hussar
+        home = 1243
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = artillery
+        home = 1243
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = artillery
+        home = 1241
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = artillery
+        home = 1241
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = artillery
+        home = 1241
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = artillery
+        home = 1241
+    }
+}
+
+army = {
+   name = "Defense Forces"
+    location = 1246
+    regiment = {
+        name = "Defense Brigade"
+        type = infantry
+        home = 1241
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = infantry
+        home = 1241
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = infantry
+        home = 1246
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = infantry
+        home = 1246
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = hussar
+        home = 1246
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = artillery
+        home = 1246
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = artillery
+        home = 1245
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = artillery
+        home = 1245
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = artillery
+        home = 1245
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = artillery
+        home = 1245
+    }
+}
+
+#========================= S E A =========================
+
+
+
+#========================= END OF FILE =========================
+

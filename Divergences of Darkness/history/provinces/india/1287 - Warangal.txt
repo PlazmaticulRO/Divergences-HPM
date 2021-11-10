@@ -1,9 +1,5 @@
-owner = HYD
-controller = HYD
-add_core = HYD
-add_core = DRA
-add_core = BHO
-#add_core = VIJ
-add_core = ADR
+owner = NAY
+controller = NAY
+add_core = NAY
 trade_goods = cotton
 life_rating = 32

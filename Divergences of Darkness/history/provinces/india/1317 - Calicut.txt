@@ -1,8 +1,5 @@
-owner = TRA
-controller = TRA
-add_core = MYS
-add_core = DRA
-#add_core = VIJ
-add_core = TRA
+owner = KOC
+controller = KOC
+add_core = KOC
 trade_goods = fish
 life_rating = 32

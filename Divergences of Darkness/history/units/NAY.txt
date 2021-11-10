@@ -1,0 +1,66 @@
+
+
+#========================= L A N D =========================
+
+army = {
+   name = "Defense Forces"
+    location = 1287
+    regiment = {
+        name = "Defense Brigade"
+        type = infantry
+        home = 1287
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = infantry
+        home = 1287
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = infantry
+        home = 1287
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = infantry
+        home = 1305
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = hussar
+        home = 1305
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = artillery
+        home = 1279
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = artillery
+        home = 1283
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = artillery
+        home = 1283
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = artillery
+        home = 1283
+    }
+    regiment = {
+        name = "Defense Brigade"
+        type = artillery
+        home = 1283
+    }
+}
+
+
+#========================= S E A =========================
+
+
+
+#========================= END OF FILE =========================
+

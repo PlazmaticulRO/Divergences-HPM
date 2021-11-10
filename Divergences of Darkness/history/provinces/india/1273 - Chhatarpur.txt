@@ -1,8 +1,5 @@
-owner = MUG
-controller = MUG
-add_core = BUN
-add_core = HND
-add_core = MUG
-add_core = GWA
+owner = KHA
+controller = KHA
+add_core = KHA
 trade_goods = dye
 life_rating = 32

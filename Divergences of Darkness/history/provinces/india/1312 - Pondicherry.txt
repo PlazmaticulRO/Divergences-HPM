@@ -1,7 +1,5 @@
-controller = MDR
-owner = MDR
-add_core = MDR
-#add_core = TRA
-add_core = DRA
+controller = HOY
+owner = HOY
+add_core = HOY
 trade_goods = fish
 life_rating = 32

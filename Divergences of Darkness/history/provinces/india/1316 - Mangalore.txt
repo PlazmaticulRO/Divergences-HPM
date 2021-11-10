@@ -1,8 +1,5 @@
-owner = TRA
-controller = TRA
-add_core = MYS
-add_core = DRA
-#add_core = VIJ
-add_core = TRA
+owner = HOY
+controller = HOY
+add_core = HOY
 trade_goods = fruit
 life_rating = 32
